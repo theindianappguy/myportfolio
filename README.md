@@ -1,6 +1,6 @@
-# myportfolio
+# Myportfolio website made with Flutter
 
-A new Flutter project.
+Responsive Portfolio site made with Flutter, feel free to fork/clone/download and get portfolio for yourself, just leave a star ⭐️ 
 
 ## Getting Started
 
